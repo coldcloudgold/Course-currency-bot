@@ -1,0 +1,4 @@
+.env
+users_tg_bot.db
+.vscode/
+__pycache__/
