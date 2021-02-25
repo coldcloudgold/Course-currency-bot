@@ -8,4 +8,4 @@
 ![alt](https://github.com/coldcloudgold/illustration/blob/main/Project/Tg_bot/Gif_work.gif)
 
 #### Бот доступен в telegram:
-___@Course_currency_bot___
+___https://t.me/Course_currency_bot___
